@@ -1,7 +1,7 @@
 <div id="SealedSaucer" align="center">
     <h1>Make Your Discord Account Online Forever</h1>
     <p>Make Your Discord Account 24/7 Online!</p>
-
+<br>
     <img src="https://i.imgur.com/N61T21L.png" height="210">
 </div>
 
