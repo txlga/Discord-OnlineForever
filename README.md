@@ -27,7 +27,7 @@ By using this code, you are automating your Discord Account. This is against Dis
 - Supports all three status modes (Online, Idle, Do Not Disturb)
 - Can be used almost on any platform that supports [Python](https://python.org)
 
-## Obtaining Your Token ([Video Guide](https://www.youtube.com/watch?v=sYGdDLLu8cU))
+## Obtaining Your Token
 You will need an user token inorder to use this code. You can obtain it by doing the following:
 1. Logging in to your discord account
 2. Pressing `Ctrl+Shift+I` to open Chrome Developer Tools
@@ -37,7 +37,7 @@ You will need an user token inorder to use this code. You can obtain it by doing
 6. Click the entry that has `science` as the `Name`
 7. On the sub-menu, go to `Headers`
 8. Scroll down till you see an entry named `Authorization`. Copy the line next to it.
-9. This is your token, <ins>**DO NOT GIVE IT TO ANYONE**</ins>.
+9. This is your token, <ins>**Do not give it to anyone**</ins>.
 
 <p align="center">
   <img height="10px" width="10000px" src="https://i.imgur.com/w6MUcN8.png"/>
@@ -47,15 +47,15 @@ You will need an user token inorder to use this code. You can obtain it by doing
 ### · Replit
 #### The code inside the repository was originally made to be hostable on [Replit](https://replit.com), but due to a recent ban on all repositories that are against Discord's ToS, you won't be able to import this repository directly to Replit anymore.
 #### Here's a workaround to solve that issue:
-1. Click [here](https://github.com/SealedSaucer/Online-Forever/archive/refs/heads/main.zip) to download the latest version of this code.
+1. Click [here](https://github.com/txlga/Discord-OnlineForever/archive/refs/heads/main.zip) to download the latest version of this code.
 2. Unzip the file
 3. Create a new Python repl on [Replit](https://replit.com)
 4. Upload the files into the repl (Just drag and drop it into the files sidebar)
 5. Overwrite the files if a prompt pops-up
-6. Add your token inside Secrets ([Guide](https://docs.replit.com/programming-ide/workspace-features/storing-sensitive-information-environment-variables)) with `TOKEN` as the key and your token as the value ([Video](https://youtu.be/sYGdDLLu8cU))
+6. Add your token inside Secrets ([Guide](https://docs.replit.com/programming-ide/workspace-features/storing-sensitive-information-environment-variables)) with `TOKEN` as the key and your token as the value
 7. Modify both the status mode and custom status, if you want to make any adjustments
 8. Run the repl
-9. Add your repl url to an uptime monitor ([Video](https://youtu.be/dVIjpCqnZXE))
+9. Add your repl url to an uptime monitor
 
 ### · Docker
 
