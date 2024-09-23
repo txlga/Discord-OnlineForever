@@ -7,8 +7,7 @@
 
 ---
 
-<p align="center">
-If you want to online tokens in bulk, consider checking out my store: <b><a href="https://phantom.sellix.io">phantom.sellix.io</a></b>! ☄️
+<p align="center">☄️
 <br>
 ⭐ Feel free to star the repository if this helped you!
 </p>
