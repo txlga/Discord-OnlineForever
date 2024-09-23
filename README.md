@@ -77,8 +77,6 @@ import websocket
 
 status = "online"
 
-custom_status = "youtube.com/@SealedSaucer" #If you don't need a custom status on your profile, just put "" instead of "youtube.com/@SealedSaucer"
-
 usertoken = "Add your token here"
 
 headers = {"Authorization": usertoken, "Content-Type": "application/json"}
@@ -154,7 +152,7 @@ run_onliner()
 3. Create a new Python file and paste the code into it
 4. Modify both the status mode and custom status, if you want to make any adjustments
 5. Save the file
-6. Create a `requirements.txt` file and copy and paste the file contents inside [requirements.txt](https://github.com/SealedSaucer/Online-Forever/blob/main/requirements.txt) without the `Flask` module
+6. Create a `requirements.txt` file and copy and paste the file contents inside [requirements.txt](https://github.com/txlga/Discord-OnlineForever/blob/main/requirements.txt) without the `Flask` module
 7. Save the file
 8. Open command prompt where both the files are present and run `pip install -r requirements.txt`
 9. Once the packages are downloaded, either double-click the python file in order to run it or open command prompt where the python file is present and run `python filename.py`
