@@ -189,8 +189,6 @@ run_onliner()
 </p>
 
 ## 🛟 Help and Support
-If you have any issues or doubts regarding this, feel free to [contact me](https://phantom.fr.to/verify).
+If you have any issues or doubts regarding this, feel free to contact me on Discord **@twoxy**
 
 ---
-
-<p align="center">Online Forever is licensed under GNU General Public License ❤️</p>
