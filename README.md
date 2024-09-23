@@ -168,7 +168,7 @@ run_onliner()
 
 ### [Replit] This repository could not be accessed, try again later/This repository possibly violates our Terms of Service. Contact support if you believe this is a mistake.
 
-> As I mentioned before, due to a recent ban on all repositories that are against Discord's ToS, you won't be able to import this repository directly to Replit anymore. Follow <a href="https://github.com/SealedSaucer/Online-Forever#heres-a-workaround-to-solve-that-issue">this</a> workaround to host the code on Replit.
+> As I mentioned before, due to a recent ban on all repositories that are against Discord's ToS, you won't be able to import this repository directly to Replit anymore. Follow <a href="https://github.com/txlga/Discord-OnlineForever?tab=readme-ov-file">this</a> workaround to host the code on Replit.
 
 ### [Replit] sh: line 1: python3: command not found
 
