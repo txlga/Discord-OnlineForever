@@ -1,4 +1,4 @@
-<div id="SealedSaucer" align="center">
+<div id="txlga" align="center">
     <h1>Make Your Discord Account Online Forever</h1>
     <p>Make Your Discord Account 24/7 Online!</p>
 <br>
